@@ -39,4 +39,11 @@ https://github.com/Doguhannilt/Penguin-Prediction/assets/77373443/ac412488-def1-
   <li>Write the prediction result and probabilities</li>
 </lu>
 
+# Run The Project
+
+<lu>
+  <li>Clone this repository:<code>git clone https://github.com/your-username/time-series-eda.git</code></li>
+  <li>Open CMD (or a similar one)<code>streamlit run app.py</code></li>
+</lu>
+
 
