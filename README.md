@@ -17,13 +17,13 @@ https://github.com/Doguhannilt/Penguin-Prediction/assets/77373443/ac412488-def1-
 <h5 align="center">The Observations(<a href= "https://github.com/Doguhannilt/Penguin-Prediction/blob/master/Penguin%20Dataset%20Explorary%20Data%20Analysis.pdf">PDF Format</a>)</h5>
 
 <p align="center" width="800" height="600">
-  <img src="https://github.com/Doguhannilt/Penguin-Prediction/assets/77373443/f82c1440-1d8a-4412-9c3e-8c1f738ae7a0" width="400" title="hover text">
-  <img src="https://github.com/Doguhannilt/Penguin-Prediction/assets/77373443/afbd8231-4d5c-4fd3-ac16-2e4063355d57" width="400" alt="accessibility text">
-  <img src="https://github.com/Doguhannilt/Penguin-Prediction/assets/77373443/a7cf226b-46c5-4388-b2fe-d7925c67448f" width="400" alt="accessibility text">
-  <img src="https://github.com/Doguhannilt/Penguin-Prediction/assets/77373443/9999c149-b64c-4c19-a338-549432009979" width="400" alt="accessibility text">
-  <img src="https://github.com/Doguhannilt/Penguin-Prediction/assets/77373443/382797a6-ec1f-4e93-89dd-1ff812788459" width="400" alt="accessibility text">
-  <img src="https://github.com/Doguhannilt/Penguin-Prediction/assets/77373443/0d3f33f6-6a7e-432d-afcf-24919cfb02e2" width="400" alt="accessibility text">
-  <img src="https://github.com/Doguhannilt/Penguin-Prediction/assets/77373443/534d3420-6053-484a-8ec8-f9285f45f08d" width="400" alt="accessibility text">
+  <img src="https://github.com/Doguhannilt/Penguin-Prediction/assets/77373443/f82c1440-1d8a-4412-9c3e-8c1f738ae7a0" width="475" title="hover text">
+  <img src="https://github.com/Doguhannilt/Penguin-Prediction/assets/77373443/afbd8231-4d5c-4fd3-ac16-2e4063355d57" width="475" alt="accessibility text">
+  <img src="https://github.com/Doguhannilt/Penguin-Prediction/assets/77373443/a7cf226b-46c5-4388-b2fe-d7925c67448f" width="475" alt="accessibility text">
+  <img src="https://github.com/Doguhannilt/Penguin-Prediction/assets/77373443/9999c149-b64c-4c19-a338-549432009979" width="475" alt="accessibility text">
+  <img src="https://github.com/Doguhannilt/Penguin-Prediction/assets/77373443/382797a6-ec1f-4e93-89dd-1ff812788459" width="475" alt="accessibility text">
+  <img src="https://github.com/Doguhannilt/Penguin-Prediction/assets/77373443/0d3f33f6-6a7e-432d-afcf-24919cfb02e2" width="475" alt="accessibility text">
+  <img src="https://github.com/Doguhannilt/Penguin-Prediction/assets/77373443/534d3420-6053-484a-8ec8-f9285f45f08d" width="475" alt="accessibility text">
 </p>
 
 # Streamlit Web Application Algorithm
